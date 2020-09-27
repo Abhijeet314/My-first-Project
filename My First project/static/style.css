@@ -1,0 +1,45 @@
+.Container-1 {
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 75%;
+    text-align: center;
+
+    
+}
+
+
+.Container-2 {
+    display: flex;
+    justify-content: space-around;
+    border: 1px solid black;
+    flex-wrap: wrap;
+    align-items: center;
+    padding: 10px;
+
+}
+.Container-2 div {
+    display: flex;
+    padding: 10px;
+    border: 1px solid black;
+    align-items: center;
+    
+}
+.Container-3 {
+    border: 1px solid black;
+    margin: 0 auto;
+    width: 75%;
+    text-align: center;
+}
+.Flex-box-container {
+    display: flex;
+    border: 1px solid black;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+.Flex-box-container iframe {
+    
+    margin: 10px;
+    box-shadow: 0px 10px 50px rgba(0, 0, 0, 0.7);
+   
+}
+
